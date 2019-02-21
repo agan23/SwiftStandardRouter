@@ -20,8 +20,8 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  SwiftStandardRouter: cf3cf60efbbe75520b2063f93c4a62f046fdb5da
+  SwiftStandardRouter: 7a8ae488a15154d92d7ff720eb611e72f0feb958
 
 PODFILE CHECKSUM: f51eccc17eb3f52acb2becfc1cef47ef7f40ce99
 
-COCOAPODS: 1.6.0
+COCOAPODS: 1.5.3
