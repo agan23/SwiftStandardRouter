@@ -6,9 +6,9 @@ cd ..
 pwd
 echo "----------------------------"
 pod lib lint --no-clean --allow-warnings SwiftStandardRouter.podspec
-git tag 0.1.0
+git tag 0.2.0
 git add .
-git commit -m "0.1.0"
+git commit -m "0.2.0"
 git pull
 git push
 git push --tag

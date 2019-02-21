@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SwiftStandardRouter'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = '为了解决iOS项目的耦合而存在的一个组件.'
 
 # This description is used to generate tags and improve search results.

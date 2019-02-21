@@ -4,7 +4,7 @@ PODS:
   - FBSnapshotTestCase/Core (2.1.4)
   - FBSnapshotTestCase/SwiftSupport (2.1.4):
     - FBSnapshotTestCase/Core
-  - SwiftStandardRouter (0.1.0)
+  - SwiftStandardRouter (0.2.0)
 
 DEPENDENCIES:
   - FBSnapshotTestCase (~> 2.1.4)
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
-  SwiftStandardRouter: 7a8ae488a15154d92d7ff720eb611e72f0feb958
+  SwiftStandardRouter: bff12d88b76bbe3c5ac6e7104587f001a47f1131
 
 PODFILE CHECKSUM: f51eccc17eb3f52acb2becfc1cef47ef7f40ce99
 
